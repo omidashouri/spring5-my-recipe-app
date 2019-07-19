@@ -8,6 +8,7 @@ public class Spring5MyRecipeAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Spring5MyRecipeAppApplication.class, args);
+//        test
     }
 
 }
